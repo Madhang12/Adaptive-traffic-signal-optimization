@@ -1,4 +1,8 @@
-# Intelligent Traffic Signal Control
+Adaptive Traffic Signal Optimization
+
+[LIVE INTERACTIVE 3D DEMO — CLICK HERE](https://madhang12.github.io/adaptive-traffic-signal-optimization/replay_3d.html)
+
+[View 2D Simulation](https://madhang12.github.io/adaptive-traffic-signal-optimization/replay.html)
 
 **A team-built traffic-intersection simulation and adaptive signal-control project using fuzzy logic, genetic algorithms, particle swarm optimisation and simulated annealing.**
 
