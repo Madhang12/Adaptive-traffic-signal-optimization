@@ -105,7 +105,7 @@ See [`v2/FINAL_REPORT.md`](v2/FINAL_REPORT.md), [`v2/DECK_NUMBERS.md`](v2/DECK_N
 
 ## Team and academic context
 
-This was developed as a team academic project. The PBL report credits **D. Ritheek, M. Srilakshmi Reddy, B. Deekshan Raj, P. Priyakaran Reddy and G. Madhan**. The original report, review deck and presentation script are retained in `docs/`.
+This was developed as a team academic project. The PBL report credits **G. Madhan, D. Ritheek, M. Srilakshmi Reddy, B. Deekshan Raj, P. Priyakaran Reddy and **. The original report, review deck and presentation script are retained in `docs/`.
 
 This repository is published as a portfolio record of participation in the team project. It does not imply that the project was independently authored by one person. Individual contributions should be described only where they can be substantiated.
 
